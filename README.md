@@ -83,10 +83,11 @@
 <img width="40%"  src="https://github-readme-stats.vercel.app/api?username=snmoyano&show_icons=true&locale=en" alt="snmoyano"/>
 </div>
 <br/>
-<h2 align="center">🔗Link To My Portfolio🔗<h2>
+
 <p align="center">
-<h3 align="center">🔽🔽🔽<h3>
-<a align="center" href="https://portfolio-snmoyano.netlify.app"><img align="center" width="150px"src="https://img.icons8.com/nolan/512/portfolio.png" alt="Portfolio"/></a>
+
+<a align="center" href="https://portfolio-snmoyano.netlify.app"><h2 align="center">🔗Link To My Portfolio🔗<h2></a>
+
 </p>
 
 <h2 align="center">Let's Connect <h2>
