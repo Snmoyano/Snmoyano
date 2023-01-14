@@ -86,7 +86,7 @@
 
 <p align="center">
 
-<a align="center" href="https://portfolio-snmoyano.netlify.app"><h2 align="center">🔗Link To My Portfolio🔗<h2></a>
+<a  href="https://portfolio-snmoyano.netlify.app">🔗Link To My Portfolio🔗</a>
 
 </p>
 
