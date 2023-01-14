@@ -95,6 +95,6 @@
 <p align="center" backgroud="./images/mid.png">
 	<a href="https://github.com/Snmoyano"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sergio-nicolas-moyano"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/debjit.pramanick.56/"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-portfolio-social-media-agency-flaticons-lineal-color-flat-icons-3.png" alt="Portfolio"/></a>
+	<a href="https://www.facebook.com/debjit.pramanick.56/"><img src="https://icons8.com/icon/ajFgVkYQQuoG/portfolio" alt="Portfolio"/></a>
 	<!-- <a href="https://www.instagram.com/debjitpk/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
 </p>
