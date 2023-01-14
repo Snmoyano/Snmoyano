@@ -78,16 +78,15 @@
 <br/>
 <br/>
 
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=snmoyano&show_icons=true&locale=en&layout=compact" alt="snmoyano"/> 
-<img src="https://github-readme-stats.vercel.app/api?username=snmoyano&show_icons=true&locale=en" alt="snmoyano"/>
+<div align="center">
+<img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=snmoyano&show_icons=true&locale=en&layout=compact" alt="snmoyano"/> 
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=snmoyano&show_icons=true&locale=en" alt="snmoyano"/>
 </div>
 <br/>
-<div align=center>
-	<h2 align="center">🔗Link To My Portfolio🔗<h2>
-	<h3 align="center">🔽🔽🔽<h3>
-    <a href="https://portfolio-snmoyano.netlify.app"><img width="150px"src="https://img.icons8.com/nolan/512/portfolio.png" alt="Portfolio"/></a>
-</div>
+<h2 align="center">🔗Link To My Portfolio🔗<h2>
+<h3 align="center">🔽🔽🔽<h3>
+<a align="center" href="https://portfolio-snmoyano.netlify.app"><img width="150px"src="https://img.icons8.com/nolan/512/portfolio.png" alt="Portfolio"/></a>
+
 <h2 align="center">Let's Connect <h2>
 <p align="center" backgroud="./images/mid.png">
 	<a href="https://github.com/Snmoyano"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
