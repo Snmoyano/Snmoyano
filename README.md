@@ -1,24 +1,100 @@
-<h1 align="center">Hola 👋, soy Nicolás</h1>
-<h3 align="center">Un desarrollador Backend apasionado de Argentina</h3>
+## There are two ways to write error-free programs; only the third one works. 😄😄
 
-- 🔭 Actualmente estoy trabajando en **Para Cuando? **
+![](https://komarev.com/ghpvc/?username=DebjitPramanick&color=blue)
 
-- 🌱 Actualmente estoy aprendiendo **Backend con Node JS**
+### About Me:
 
-- 🤝 Estoy buscando ayuda con **Para Cuando?**
+<table width="100%">
+<tr>
+<td>
+<ul>Finalice el BootCamp en Academlo de Desarrollador Full Stack</li>
+<li>🏆 Obtuve certificados en Desarrollador Front En with Reac , Backend wit Node js y Full Stack</li>
+<li>✅ Tengo 5 años de experiencia laboral en la industria del software</li>
+<li>🔭 Actualmente estoy trabajando en un proyecto Backen en Academlo</li>
+<li>✨ Aprendiendo Golang</li>
+<li>🌱 Experimentando con Phyton</li>
+<li>👯 Interesado en código abierto, tecnología en la nube, cadena de bloques e IA.</li>
+<li>🤔 Explorar las últimas tecnologías y desarrollar aplicaciones web útiles</li>
+<li>✍️ Me encanta el diseño de API's Rres interesantes.</li>
+</ul>
+</td>
+<td>
+<img style="width: 100%" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
+</td>
+</tr>
+</table>
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://portfolio -snmoyano.netlify.app](https://portfolio-snmoyano.netlify.app)
+### Languages and Technologies:
 
-- 💬 Pregúntame sobre **Node JS , PostgreSql , Sequelize**
+<table width="100%">  
+<tr align="center">  
+<td width="545"><strong>Languages</strong></td>  
+<td width="466">
+	<img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+	<img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+	<img alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+	<img width="36px" src="https://img.icons8.com/color/50/000000/typescript.png"/>
+	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+	<img width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+</td>  
+</tr>  
+<tr align="center">  
+<td width="50%"><strong>Frontend</strong></td>  
+<td width="50%">
+	<img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+	<img alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/>
+	
+</td>  
+</tr>  
+<tr align="center">  
+<td width="50%"><strong>Backend</strong></td>  
+<td width="50%">
+    <img alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+	<img alt="Express.js" width="36px" src="https://img.icons8.com/color/48/000000/js.png" />
+	<img alt="MongoDB" width="36px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+	<img width="36px" src="https://img.icons8.com/nolan/64/mysql.png"/>	
+	<img width="36px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+</td>  
+</tr>  
+<!-- <tr align="center">  
+<td width="50%"><strong>Blockchain</strong></td>  
+<td width="50%">
+    <img width="36px" src="https://img.icons8.com/fluent/48/000000/ethereum.png"/>
+    <img width="36px" height="34px" src="https://www.trufflesuite.com/img/truffle-logomark.svg"/>
+    <img width="36px" height="34px" src="https://www.trufflesuite.com/img/ganache-logomark.svg"/>
+    <img width="36px" height="34px" src="https://cdn.iconscout.com/icon/free/png-512/metamask-2728406-2261817.png"/>
+</td>  
+</tr>   -->
+<tr align="center">  
+<td width="50%"><strong>Version Control</strong></td>  
+<td width="50%">
+   <img alt="Git" width="36px" src="https://img.icons8.com/color/64/000000/git.png"/>
+	<img alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</td>  
+</tr>  
+<tr align="center">  
+<td width="50%"><strong>Cloud Tech</strong></td>  
+<td width="50%">
+	<img width="36px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+</td>  
+</tr>
 
-- 📫 Cómo contactarme **sergio.nicolas.moyano@gmail .com**
+</table>
+<br/>
+<br/>
 
-<h3 align="left">Conéctese conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sergio-nicolas-moyano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio-nicolas-moyano" height="30" width="40" /></a>
-<a href="https://www.behance.net/sergiomoyano1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/behance.svg" alt="sergiomoyano1" height="30" width="40" /></a>
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=snmoyano&show_icons=true&locale=en&layout=compact" alt="snmoyano"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=snmoyano&show_icons=true&locale=en" alt="snmoyano"/>
+</div>
+<br/>
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=snmoyano&show_icons=true&locale=en" alt="snmoyano" /> -->
+
+<h2 align="center">Let's Connect <h2>
+<p align="center" backgroud="./images/mid.png">
+	<a href="https://github.com/Snmoyano"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/sergio-nicolas-moyano"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<!-- <a href="https://www.facebook.com/debjit.pramanick.56/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/debjitpk/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
 </p>
-
-<h3 align="left"> Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender .org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height= "40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> < /a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" objetivo ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width= "40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www .vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com " target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height=" 40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3. org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt ="html5" ancho="40" altura="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height=" 40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel=" noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> < a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https:// www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server- logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer "> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs -original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height=" 40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https: //cartero.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cartero" width=" 40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent .com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux /redux-original.svg" alt="redux" ancho="40" altura="40"/> </a> </p>
-
