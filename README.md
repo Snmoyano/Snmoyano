@@ -1,6 +1,6 @@
-# There are two ways to write error-free programs; only the third one works.
+# Hi, I'm Nicolas Backend developer. 😄😄
 
-## Hi, I'm Nicolas Backend developer. 😄😄
+## There are two ways to write error-free programs; only the third one works.
 
 ![](https://komarev.com/ghpvc/?username=Snmoyano&color=blue)
 
@@ -10,15 +10,15 @@
 <tr>
 <td>
 <ul>
-<li>💻Finalice el BootCamp en Academlo de Desarrollador Full Stack</li>
-<li>🏆 Obtuve certificados en Desarrollador Front En with Reac , Backend wit Node js y Full Stack</li>
-<li>✅ Tengo 5 años de experiencia laboral en la industria del software</li>
-<li>🔭 Actualmente estoy trabajando en un proyecto Backen en Academlo</li>
-<li>✨ Aprendiendo Golang</li>
-<li>🌱 Experimentando con Phyton</li>
-<li>👯 Interesado en código abierto, tecnología en la nube, cadena de bloques e IA.</li>
-<li>🤔 Explorar las últimas tecnologías y desarrollar aplicaciones web útiles</li>
-<li>✍️ Me encanta el diseño de API's Rres interesantes.</li>
+<li>💻Complete BootCamp in Full Stack Developer Academy</li>
+<li>🏆 I got certificates in Front End Developer with Reac, Backend with Node js and Full Stack</li>
+<li>✅ I have 5 years of work experience in the software industry</li>
+<li>🔭 I am currently working on a Backen project at Academlo</li>
+<li>✨ Learning Golang</li>
+<li>🌱 Experimenting with Python</li>
+<li>👯 Interested in open source, cloud technology, blockchain and AI.</li>
+<li>🤔 Explore the latest technologies and develop useful web applications</li>
+<li>✍️ I love the design of interesting API's Rres.</li>
 </ul>
 </td>
 <td>
@@ -58,16 +58,8 @@
 	<img width="36px" src="https://img.icons8.com/nolan/64/mysql.png"/>	
 	<img width="36px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 </td>  
-</tr>  
-<!-- <tr align="center">  
-<td width="50%"><strong>Blockchain</strong></td>  
-<td width="50%">
-    <img width="36px" src="https://img.icons8.com/fluent/48/000000/ethereum.png"/>
-    <img width="36px" height="34px" src="https://www.trufflesuite.com/img/truffle-logomark.svg"/>
-    <img width="36px" height="34px" src="https://www.trufflesuite.com/img/ganache-logomark.svg"/>
-    <img width="36px" height="34px" src="https://cdn.iconscout.com/icon/free/png-512/metamask-2728406-2261817.png"/>
-</td>  
-</tr>   -->
+</tr>
+
 <tr align="center">  
 <td width="50%"><strong>Version Control</strong></td>  
 <td width="50%">
@@ -92,16 +84,12 @@
 </div>
 <br/>
 <div align=center>
-	<a href="https://www.facebook.com/debjit.pramanick.56/"><img width="50px"src="https://img.icons8.com/nolan/512/portfolio.png" alt="Portfolio"/></a>
+	<h2 align="center">🔗Link To My Portfolio🔗<h2>
+	<h3 align="center">🔽🔽🔽<h3>
+    <a href="https://portfolio-snmoyano.netlify.app"><img width="150px"src="https://img.icons8.com/nolan/512/portfolio.png" alt="Portfolio"/></a>
 </div>
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=snmoyano&show_icons=true&locale=en" alt="snmoyano" /> -->
-
 <h2 align="center">Let's Connect <h2>
 <p align="center" backgroud="./images/mid.png">
 	<a href="https://github.com/Snmoyano"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sergio-nicolas-moyano"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-
-    <!-- <a href="https://www.instagram.com/debjitpk/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
-
 </p>
