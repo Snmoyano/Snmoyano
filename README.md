@@ -88,6 +88,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=snmoyano&show_icons=true&locale=en" alt="snmoyano"/>
 </div>
 <br/>
+<div align=center>
+	<a href="https://www.facebook.com/debjit.pramanick.56/"><img width="50px"src="https://img.icons8.com/nolan/512/portfolio.png" alt="Portfolio"/></a>
+</div>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=snmoyano&show_icons=true&locale=en" alt="snmoyano" /> -->
 
@@ -95,6 +98,7 @@
 <p align="center" backgroud="./images/mid.png">
 	<a href="https://github.com/Snmoyano"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sergio-nicolas-moyano"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/debjit.pramanick.56/"><img src="https://img.icons8.com/external-nawicon-outline-color-nawicon/64/null/external-portfolio-seo-and-marketing-nawicon-outline-color-nawicon.png" alt="Portfolio"/></a>
-	<!-- <a href="https://www.instagram.com/debjitpk/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
+
+    <!-- <a href="https://www.instagram.com/debjitpk/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
+
 </p>
