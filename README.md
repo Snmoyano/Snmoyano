@@ -7,7 +7,7 @@
 <table width="100%">
 <tr>
 <td>
-<ul>Finalice el BootCamp en Academlo de Desarrollador Full Stack</li>
+<ul>💻Finalice el BootCamp en Academlo de Desarrollador Full Stack</li>
 <li>🏆 Obtuve certificados en Desarrollador Front En with Reac , Backend wit Node js y Full Stack</li>
 <li>✅ Tengo 5 años de experiencia laboral en la industria del software</li>
 <li>🔭 Actualmente estoy trabajando en un proyecto Backen en Academlo</li>
@@ -95,6 +95,6 @@
 <p align="center" backgroud="./images/mid.png">
 	<a href="https://github.com/Snmoyano"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sergio-nicolas-moyano"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<!-- <a href="https://www.facebook.com/debjit.pramanick.56/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/debjitpk/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
+	<a href="https://www.facebook.com/debjit.pramanick.56/"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-portfolio-social-media-agency-flaticons-lineal-color-flat-icons-3.png" alt="Portfolio"/></a>
+	<!-- <a href="https://www.instagram.com/debjitpk/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
 </p>
