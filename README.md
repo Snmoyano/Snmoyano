@@ -78,7 +78,7 @@
 <br/>
 <br/>
 
-<div align="center">
+<div >
 <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=snmoyano&show_icons=true&locale=en&layout=compact" alt="snmoyano"/> 
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=snmoyano&show_icons=true&locale=en" alt="snmoyano"/>
 </div>
