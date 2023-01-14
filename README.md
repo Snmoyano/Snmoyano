@@ -1,13 +1,16 @@
-## There are two ways to write error-free programs; only the third one works. 😄😄
+# There are two ways to write error-free programs; only the third one works.
 
-![](https://komarev.com/ghpvc/?username=DebjitPramanick&color=blue)
+## Hi, I'm Nicolas Backend developer. 😄😄
+
+![](https://komarev.com/ghpvc/?username=Snmoyano&color=blue)
 
 ### About Me:
 
 <table width="100%">
 <tr>
 <td>
-<ul>💻Finalice el BootCamp en Academlo de Desarrollador Full Stack</li>
+<ul>
+<li>💻Finalice el BootCamp en Academlo de Desarrollador Full Stack</li>
 <li>🏆 Obtuve certificados en Desarrollador Front En with Reac , Backend wit Node js y Full Stack</li>
 <li>✅ Tengo 5 años de experiencia laboral en la industria del software</li>
 <li>🔭 Actualmente estoy trabajando en un proyecto Backen en Academlo</li>
