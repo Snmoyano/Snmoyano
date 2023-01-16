@@ -3,6 +3,7 @@
 ## There are two ways to write error-free programs; only the third one works.😄😄
 
 ![](https://komarev.com/ghpvc/?username=Snmoyano&color=blue)
+![](https://img.shields.io/badge/Backend-Developer-yellow)
 ![](https://img.shields.io/badge/Backend-NodeJS-green)
 ![](https://img.shields.io/badge/Backend-Express-blue)
 ![](https://img.shields.io/badge/Backend-Sequelize-red)
@@ -81,14 +82,15 @@
 </table>
 <br/>
 <br/>
+<div align="center" width="50%">
 
-<div align="center">
-<img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=snmoyano&show_icons=true&locale=en&layout=compact" alt="snmoyano"/> 
-<img width="40%"  src="https://github-readme-stats.vercel.app/api?username=snmoyano&show_icons=true&locale=en" alt="snmoyano"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snmoyano&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snmoyano&layout=compact)](https://github.com/Snmoyano/github-readme-stats)
+
 </div>
-<br/>
 
-<p align="center">
+<p align="center" width="50%">
 <br/>
 
 <div align="center">
