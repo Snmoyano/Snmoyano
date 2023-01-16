@@ -1,8 +1,10 @@
-# Hi, I'm Nicolas Backend developer. 😄😄
+# Hi, I'm Nicolas Backend developer.
 
-## There are two ways to write error-free programs; only the third one works.
+## There are two ways to write error-free programs; only the third one works.😄😄
 
 ![](https://komarev.com/ghpvc/?username=Snmoyano&color=blue)
+
+<img width="100%" height="300px" src="./files/js.png" />
 
 ### About Me:
 
@@ -22,7 +24,7 @@
 </ul>
 </td>
 <td>
-<img style="width: 100%" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
+<img style="width: 100%" src="./files/pixel-jeff-mario.gif">
 </td>
 </tr>
 </table>
@@ -35,10 +37,9 @@
 <td width="466">
 	<img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 	<img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-	<img alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-	<img width="36px" src="https://img.icons8.com/color/50/000000/typescript.png"/>
+	<img alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />	
 	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+	
 </td>  
 </tr>  
 <tr align="center">  
@@ -85,8 +86,18 @@
 <br/>
 
 <p align="center">
+<br/>
 
-<a align="center" href="https://portfolio-snmoyano.netlify.app"><h2 align="center">🔗GO🔗<h2></a>
+<div align="center">
+
+## 🔗LINK TO MY PORTFOLIO🔗
+
+<h4 align="center">🔽🔽🔽🔽<h4>
+<a href="https://portfolio-snmoyano.netlify.app">
+<img  height="150px"   src="https://cdn3d.iconscout.com/3d/premium/thumb/portfolio-6762580-5588838.png" /></a>
+</div>
+
+<h4 align="center">🔼🔼🔼🔼<h4>
 
 </p>
 
