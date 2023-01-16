@@ -84,9 +84,9 @@
 <br/>
 <div align="center" width="50%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snmoyano&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-kccajyqhy-snmoyano.vercel.app/api?username=Snmoyano&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snmoyano&layout=compact)](https://github.com/Snmoyano/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kccajyqhy-snmoyano.vercel.app/api/top-langs/?username=Snmoyano&layout=compact)](https://github.com/Snmoyano/github-readme-stats)
 
 </div>
 
