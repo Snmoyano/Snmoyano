@@ -3,6 +3,9 @@
 ## There are two ways to write error-free programs; only the third one works.😄😄
 
 ![](https://komarev.com/ghpvc/?username=Snmoyano&color=blue)
+![](https://img.shields.io/badge/Backend-NodeJS-green)
+![](https://img.shields.io/badge/Backend-Express-blue)
+![](https://img.shields.io/badge/Backend-Sequelize-red)
 
 <img width="100%" height="300px" src="./files/js.png" />
 
@@ -24,7 +27,7 @@
 </ul>
 </td>
 <td>
-<img style="width: 100%" src="./files/pixel-jeff-mario.gif">
+<img style="width: 500px" src="./files/pixel-jeff-mario.gif">
 </td>
 </tr>
 </table>
