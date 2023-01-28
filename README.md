@@ -19,7 +19,26 @@
 ```javascript
 const aboutMe = {
   name: 'Sergio Nicolás Moyano',
-  pronouns: 'he' || 'him',
+  pronouns: 'he' || 'him'
+	code: [Javascript, HTML, CSS],
+  technologies: {
+    frontEnd: {
+      js: ['Reactjs', 'Redux', 'React Router', 'Axios', 'Http/Ajax'],
+      css: ['Bootstrap'],
+    },
+    backEnd: {
+      js: ['Nodejs', 'Express'],
+    },
+    databases: ['MongoDB', 'PostgreSQL', 'MySQLServer'],
+  },
+  currentOccupation: ['Freelace Backend'],
+
+  fullStackWebDevelopment: {
+    frontEnd: '60%',
+    backEnd: '60%',
+    database: '50%',
+  },
+}
 ```
 
 <table width="100%">
@@ -43,80 +62,7 @@ const aboutMe = {
 </tr>
 </table>
 
-### Languages and Technologies:
-
-```javascript
-code: [Javascript, HTML, CSS],
-technologies: {
-   frontEnd: {
-     js: ['Reactjs', 'Redux', 'React Router', 'Axios', 'Http/Ajax'],
-     css: ['Bootstrap'],
-   },
-   backEnd: {
-     js: ['Nodejs', 'Express'],
-   },
-   databases: ['MongoDB', 'PostgreSQL', 'MySQLServer'],
- },
-currentOccupation: ['Freelace Backend'],
-
- fullStackWebDevelopment: {
-   frontEnd: '40%',
-   backEnd: '60%',
-   database: '60%',
- },
-}
-```
-
-<!-- <table width="100%">
-<tr align="center">
-<td width="545"><strong>Languages</strong></td>
-<td width="466">
-	<img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-	<img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-	<img alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-
- </td>
-</tr>
-<tr align="center">
-<td width="50%"><strong>Frontend</strong></td>
-<td width="50%">
-	<img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-	<img alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/>
-
-</td>
-</tr>
-<tr align="center">
-<td width="50%"><strong>Backend</strong></td>
-<td width="50%">
-    <img alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-	<img alt="Express.js" width="36px" src="https://img.icons8.com/color/48/000000/js.png" />
-	<img alt="MongoDB" width="36px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-	<img width="36px" src="https://img.icons8.com/nolan/64/mysql.png"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-</td>
-</tr>
-
- <tr align="center">
-<td width="50%"><strong>Version Control</strong></td>
-<td width="50%">
-   <img alt="Git" width="36px" src="https://img.icons8.com/color/64/000000/git.png"/>
-	<img alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</td>
-</tr>
-<tr align="center">
-<td width="50%"><strong>Cloud Tech</strong></td>
-<td width="50%">
-	<img width="36px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-</td>
-</tr>
-
- </table>
-<br/>
-<br/>
-<div align="center" width="50%"> -->
-
-[![Anurag's GitHub stats](https://github-readme-stats-kccajyqhy-snmoyano.vercel.app/api?username=Snmoyano&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-kccajyqhy-snmoyano.vercel.app/api?username=Snmoyano&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats-kccajyqhy-snmoyano.vercel.app/api/top-langs/?username=Snmoyano&layout=compact)](https://github.com/Snmoyano/github-readme-stats)
 
@@ -136,7 +82,57 @@ currentOccupation: ['Freelace Backend'],
 
 <h4 align="center">🔼🔼🔼🔼<h4>
 
+### Languages and Technologies:
+
 </p>
+<table width="100%">  
+<tr align="center">  
+<td width="545"><strong>Languages</strong></td>  
+<td width="466">
+	<img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+	<img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+	<img alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />	
+	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+	
+</td>  
+</tr>  
+<tr align="center">  
+<td width="50%"><strong>Frontend</strong></td>  
+<td width="50%">
+	<img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+	<img alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/>
+	
+</td>  
+</tr>  
+<tr align="center">  
+<td width="50%"><strong>Backend</strong></td>  
+<td width="50%">
+    <img alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+	<img alt="Express.js" width="36px" src="https://img.icons8.com/color/48/000000/js.png" />
+	<img alt="MongoDB" width="36px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+	<img width="36px" src="https://img.icons8.com/nolan/64/mysql.png"/>	
+	<img width="36px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+</td>  
+</tr>
+
+<tr align="center">  
+<td width="50%"><strong>Version Control</strong></td>  
+<td width="50%">
+   <img alt="Git" width="36px" src="https://img.icons8.com/color/64/000000/git.png"/>
+	<img alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</td>  
+</tr>  
+<tr align="center">  
+<td width="50%"><strong>Cloud Tech</strong></td>  
+<td width="50%">
+	<img width="36px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+</td>  
+</tr>
+
+</table>
+<br/>
+<br/>
+<div align="center" width="50%">
 
 <h2 align="center">Let's Connect <h2>
 <p align="center" backgroud="./images/mid.png">
