@@ -65,6 +65,30 @@ const aboutMe = {
 <div>
 <h2 style="text-align:center">PROYECTOS</h2>
 <ul>
+    </li>
+   <li>API CRUD Users :
+    <p>Api que nos permite realizar un CRUD(create,read,update,delete) de usuarios y proteger las rutas a travez del login y realizar ciertas peticiones </p>
+    <p>
+  Tecnologías utilizadas :
+      <ul>
+        <li>Node js</li>
+        <li>Sequelize</li>
+        <li>UUID</li>
+        <li>Express</li>
+        <li>Dotenv</li>
+        <li>Bcrypt</li>
+        <li>Jsonwebtoken</li>
+        <li>Passport</li>
+        <li>Passport JWT</li>
+        <li>Pg pg-store</li>
+      </ul>
+    </p>
+  <div style="text-align:center ">
+   <h4  >LINK PROYECTO : </h4>
+  <a style="text-align:center" href="https://github.com/Snmoyano/users-base">Click Aqui para ir al proyecto</a>
+  </div>
+  </br>
+  </li>
   <li>BOT TELEGRAM :
     <p>Bot de telegram que  nos responde con frases personalizadas.Frases creada por una Api creada con el fin de generar frases aleatorias segun la elecctión del usurio</p>
     <p>
@@ -116,30 +140,6 @@ const aboutMe = {
   <a style="text-align:center" href="https://github.com/Snmoyano/todo-api-tareas">Click Aqui para ir al proyecto</a>
   </div>
   </br>
-  </li>
-   <li>API CRUD Users :
-    <p>Api que nos permite realizar un CRUD(create,read,update,delete) de usuarios y proteger las rutas a travez del login y realizar ciertas peticiones </p>
-    <p>
-  Tecnologías utilizadas :
-      <ul>
-        <li>Node js</li>
-        <li>Sequelize</li>
-        <li>UUID</li>
-        <li>Express</li>
-        <li>Dotenv</li>
-        <li>Bcrypt</li>
-        <li>Jsonwebtoken</li>
-        <li>Passport</li>
-        <li>Passport JWT</li>
-        <li>Pg pg-store</li>
-      </ul>
-    </p>
-  <div style="text-align:center ">
-   <h4  >LINK PROYECTO : </h4>
-  <a style="text-align:center" href="https://github.com/Snmoyano/users-base">Click Aqui para ir al proyecto</a>
-  </div>
-  </br>
-  </li>
 
 </ul>
 
