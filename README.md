@@ -62,6 +62,89 @@ const aboutMe = {
 </tr>
 </table>
 
+<div>
+<h2 style="text-align:center">PROYECTOS</h2>
+<ul>
+  <li>BOT TELEGRAM :
+    <p>Bot de telegram que  nos responde con frases personalizadas.Frases creada por una Api creada con el fin de generar frases aleatorias segun la elecctión del usurio</p>
+    <p>
+  Tecnologías utilizadas :
+      <ul>
+        <li>Node js</li>
+        <li>Express</li>
+        <li>Telegraf</li>
+        <li>Dotenv</li>
+      </ul>
+    </p>
+  <div style="text-align:center ">
+   <h4  >LINK PROYECTO : </h4>
+  <a style="text-align:center" href="https://github.com/Snmoyano/ShortLink">Click Aqui para ir al proyecto</a>
+  </div>
+  </br>
+  </li>
+
+   <li>SHORTLINK :
+    <p>Acortador de URLs, nos permite acordar url largas  a cortas alojandolas en una base de datos. Luego las urls tanto la full(completa) como la short(acortada) son mostradas en una tabla donde tambien nos indica a travez de la columna click cuanta veces fue acortada la misma url.</p>
+    <p>
+  Tecnologías utilizadas :
+      <ul>
+        <li>Node js</li>
+        <li>Express</li>
+        <li>Mongo DB</li>
+        <li>Short ID</li>
+        <li>Dotenv</li>
+      </ul>
+    </p>
+  </li>
+    <div style="text-align:center">
+      <h4  >LINK PROYECTO : </h4>
+      <a style="text-align:center" href="https://github.com/Snmoyano/ShortLink">Click Aqui para ir al proyecto</a>
+    </div>
+  <li>TODO API Tareas :
+    <p>Api que nos permite crear tareas y asignar a su vez si la tarea fue realizada o no </p>
+    <p>
+  Tecnologías utilizadas :
+      <ul>
+        <li>Node js</li>
+        <li>Express</li>
+        <li>Telegraf</li>
+        <li>Nodemon</li>
+      </ul>
+    </p>
+  <div style="text-align:center ">
+   <h4  >LINK PROYECTO : </h4>
+  <a style="text-align:center" href="https://github.com/Snmoyano/todo-api-tareas">Click Aqui para ir al proyecto</a>
+  </div>
+  </br>
+  </li>
+   <li>API CRUD Users :
+    <p>Api que nos permite realizar un CRUD(create,read,update,delete) de usuarios y proteger las rutas a travez del login y realizar ciertas peticiones </p>
+    <p>
+  Tecnologías utilizadas :
+      <ul>
+        <li>Node js</li>
+        <li>Sequelize</li>
+        <li>UUID</li>
+        <li>Express</li>
+        <li>Dotenv</li>
+        <li>Bcrypt</li>
+        <li>Jsonwebtoken</li>
+        <li>Passport</li>
+        <li>Passport JWT</li>
+        <li>Pg pg-store</li>
+      </ul>
+    </p>
+  <div style="text-align:center ">
+   <h4  >LINK PROYECTO : </h4>
+  <a style="text-align:center" href="https://github.com/Snmoyano/users-base">Click Aqui para ir al proyecto</a>
+  </div>
+  </br>
+  </li>
+
+</ul>
+
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats-kccajyqhy-snmoyano.vercel.app/api?username=Snmoyano&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats-kccajyqhy-snmoyano.vercel.app/api/top-langs/?username=Snmoyano&layout=compact)](https://github.com/Snmoyano/github-readme-stats)
