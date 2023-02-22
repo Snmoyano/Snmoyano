@@ -65,7 +65,34 @@ const aboutMe = {
 <div>
 <h2 style="text-align:center">PROYECTOS</h2>
 <ul>
-    </li>
+    <li>Red Social API :
+    <p>Api que nos permite interactuar entre los distintos usuarios (CRUD), creando publicaciones y poder darles 'Like' y realizar comentarios. </p>
+    <p>
+  Tecnologías utilizadas :
+      <ul>
+        <li>Node js</li>
+        <li>Express</li>
+        <li>Sequelize</li>
+        <li>UUID</li>
+        <li>Telegraf</li>
+        <li>Nodemon</li>
+        <li>Bcrypt</li>
+        <li>Cors</li>
+        <li>Dotenv</li>    
+        <li>Express-rate-limit</li>
+        <li>Jsonwebtoken</li>
+        <li>Morgan</li>
+        <li>Nodemailer</li>
+        <li>Passport</li>
+        <li>Passport-jwt</li>
+        <li>Pg</li>
+        <li>Pg-hstore</li>        
+      </ul>
+    </p>
+  <div style="text-align:center ">
+   <h4  >LINK PROYECTO : </h4>
+  <a style="text-align:center" href="https://github.com/Snmoyano/Red-Social-Api">Click Aqui para ir al proyecto</a>
+  </div>
    <li>API CRUD Users :
     <p>Api que nos permite realizar un CRUD(create,read,update,delete) de usuarios y proteger las rutas a travez del login y realizar ciertas peticiones </p>
     <p>
@@ -139,6 +166,7 @@ const aboutMe = {
    <h4  >LINK PROYECTO : </h4>
   <a style="text-align:center" href="https://github.com/Snmoyano/todo-api-tareas">Click Aqui para ir al proyecto</a>
   </div>
+    
   </br>
 
 </ul>
