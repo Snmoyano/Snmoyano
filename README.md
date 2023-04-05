@@ -220,9 +220,18 @@ const aboutMe = {
 <td width="50%">
     <img alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 	<img alt="Express.js" width="36px" src="https://img.icons8.com/color/48/000000/js.png" />
+	<img width="36px" src="https://www.svgrepo.com/show/452234/java.svg"/>
+  
+</td>  
+</tr>
+<tr align="center">  
+<td width="50%"><strong>DataBase</strong></td>  
+<td width="50%">
 	<img alt="MongoDB" width="36px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-	<img width="36px" src="https://img.icons8.com/nolan/64/mysql.png"/>	
+	<img width="36px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"/>	
 	<img width="36px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  	<img width="36px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"/>
+  
 </td>  
 </tr>
 
