@@ -117,7 +117,7 @@ const aboutMe = {
   </br>
   </li>
   <li>BOT TELEGRAM :
-    <p>Bot de telegram que  nos responde con frases personalizadas.Frases creada por una Api creada con el fin de generar frases aleatorias segun la elecctión del usurio</p>
+    <p>Bot de telegram que  nos responde con frases personalizadas.Frases creadas por una Api adicional con el fin de generar frases aleatorias segun la elección del usuario</p>
     <p>
   Tecnologías utilizadas :
       <ul>
@@ -129,7 +129,7 @@ const aboutMe = {
     </p>
   <div style="text-align:center ">
    <h4  >LINK PROYECTO : </h4>
-  <a style="text-align:center" href="https://github.com/Snmoyano/ShortLink">Click Aqui para ir al proyecto</a>
+  <a style="text-align:center" href="https://github.com/Snmoyano/Bot-Telegram">Click Aqui para ir al proyecto</a>
   </div>
   </br>
   </li>
