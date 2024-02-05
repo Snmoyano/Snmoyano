@@ -1,5 +1,3 @@
-<div id="eng">
-
 # Hi, I'm Nicolas Backend developer.😎
 
 ## There are two ways to write error-free programs; only the third one works.😄😄
@@ -63,46 +61,52 @@ const aboutMe = {
 </table>
 
 <div>
-<h2 style="text-align:center">PROYECTOS</h2>
+    <h2 style="text-align:center">PROYECTOS</h2>
+</div>
 <div>
 
-<ul>
-    <li>Sistema de Tienda:
-    <p>Sistema para para Tienda relcaionada con la tecnología, en el cual se pueden registrar productos con sus respectivas imagenes.Estos productos pueden ser adminitrados por el "ADMIN" y asi poder asginar distantas facultades a otros usarios</p>
+<h3>SISTEMA ECOMMERCE</h3>
+
+<p>Sistema para para Tienda relcaionada con la tecnología, en el cual se pueden registrar productos con sus respectivas imagenes.Estos productos pueden ser adminitrados por el "ADMIN" y asi poder asginar distantas facultades a otros usarios</p>
     <p>
-  Tecnologías utilizadas :
-      <ul>
-        <li>JAVA</li>
-        <li>Spring Boot</li>
-        <li>MySQL</li>
-        <li>JDK 20</li>
-      </ul>
-    </p>
-  <div style="text-align:center ">
+
+Tecnologías utilizadas :
+
+<ul>
+<li>JAVA</li>
+<li>Spring Boot</li>
+<li>MySQL</li>
+<li>JDK 20</li>
+</ul>
+</p>
+
+  <div style="text-align:center">
    <h4  >LINK PROYECTO : </h4>
   <a style="text-align:center" href="https://github.com/Snmoyano/ecommerce-SpringBoot">Click Aqui para ir al proyecto</a>
   </div>
 
-<ul>
-    <li>Sistema de Tienda de Ropa JAVA :
+</div>
+
+<div>
+    <h3>SISTEMA ECOMMERCE ROPA</h3>
     <p>Sistema para tienda de ropa en el cual se permite llevar detalladamente los detalles de cada venta.Eneste caso se puede elejir Nacionalidad,Talle,Tipo de Prenda,Cantidad,Precio.
     Ademas cuenta con un sistema de descuentos automáticos que se genera a la hora de realaizar la compra.
     Cuenta con un calculador de costos Netos a Pagar.
-    Cada una de las comprar realizadas se almacena en un tabala disponible a la vista del usuario.
-    </p>
-    <p>
-  Tecnologías utilizadas :
+    Cada una de las comprar realizadas se almacena en un tabala disponible a la vista del usuario.</p>
+    Tecnologías utilizadas :
       <ul>
         <li>JAVA</li>
         <li>JDK 20</li>
       </ul>
     </p>
   <div style="text-align:center ">
+  <h4  >LINK PROYECTO : </h4>
   <a style="text-align:center" href="https://github.com/Snmoyano/Red-Social-Api">Click Aqui para ir al proyecto</a>
-  </div>
 
-<ul>
-    <li>Sistema de Alumnos/Edades JAVA:
+</div>
+
+<div>
+    <h3 >SISTEMA REGISTRO JAVA</h3>
     <p>Sistema para Alumnos donde el maestro puede llevar el registro de sus alumnos y correspondientes edades, este sistema permite crear,editar y eliminar alumnos(CRUD)</p>
     <p>
   Tecnologías utilizadas :
@@ -117,9 +121,10 @@ const aboutMe = {
    <h4  >LINK PROYECTO : </h4>
   <a style="text-align:center" href="https://github.com/Snmoyano/crudJava">Click Aqui para ir al proyecto</a>
 
+</div>
 
-  <ul>
-    <li>Sistema de Registro de ALumnos:
+<div>
+    <h3 >SISTEMA REGISTRO DE ALUMNOS</h3>
     <p>Sistema para Alumnos donde el maestro puede llevar el registro de sus alumnos y correspondientes edades, este sistema permite crear,editar y eliminar alumnos(CRUD)</p>
     <p>
   Tecnologías utilizadas :
@@ -132,8 +137,10 @@ const aboutMe = {
    <h4  >LINK PROYECTO : </h4>
   <a style="text-align:center" href="https://github.com/Snmoyano/estudiantesRegistro">Click Aqui para ir al proyecto</a>
 
-<ul>
-    <li>Red Social API :
+</div>
+
+<div>
+    <h3>RED SOCIAL API</h3>
     <p>Api que nos permite interactuar entre los distintos usuarios (CRUD), creando publicaciones y poder darles 'Like' y realizar comentarios. </p>
     <p>
   Tecnologías utilizadas :
@@ -160,8 +167,10 @@ const aboutMe = {
   <div style="text-align:center ">
    <h4  >LINK PROYECTO : </h4>
   <a style="text-align:center" href="https://github.com/Snmoyano/Red-Social-Api">Click Aqui para ir al proyecto</a>
-  </div>
-   <li>API CRUD Users :
+</div>
+
+<div>
+    <h3>API CRUD USERS</h3>
     <p>Api que nos permite realizar un CRUD(create,read,update,delete) de usuarios y proteger las rutas a travez del login y realizar ciertas peticiones </p>
     <p>
   Tecnologías utilizadas :
@@ -181,10 +190,10 @@ const aboutMe = {
   <div style="text-align:center ">
    <h4  >LINK PROYECTO : </h4>
   <a style="text-align:center" href="https://github.com/Snmoyano/users-base">Click Aqui para ir al proyecto</a>
-  </div>
-  </br>
-  </li>
-  <li>BOT TELEGRAM :
+</div>
+
+<div>
+    <h3>BOT TELEGRAM</h3>
     <p>Bot de telegram que  nos responde con frases personalizadas.Frases creadas por una Api adicional con el fin de generar frases aleatorias segun la elección del usuario</p>
     <p>
   Tecnologías utilizadas :
@@ -198,11 +207,10 @@ const aboutMe = {
   <div style="text-align:center ">
    <h4  >LINK PROYECTO : </h4>
   <a style="text-align:center" href="https://github.com/Snmoyano/Bot-Telegram">Click Aqui para ir al proyecto</a>
-  </div>
-  </br>
-  </li>
+</div>
 
-   <li>SHORTLINK :
+<div>
+    <h3>SHORTLINK (acortador de urls)</h3>
     <p>Acortador de URLs, nos permite acordar url largas  a cortas alojandolas en una base de datos. Luego las urls tanto la full(completa) como la short(acortada) son mostradas en una tabla donde tambien nos indica a travez de la columna click cuanta veces fue acortada la misma url.</p>
     <p>
   Tecnologías utilizadas :
@@ -218,8 +226,10 @@ const aboutMe = {
     <div style="text-align:center">
       <h4  >LINK PROYECTO : </h4>
       <a style="text-align:center" href="https://github.com/Snmoyano/ShortLink">Click Aqui para ir al proyecto</a>
-    </div>
-  <li>TODO API Tareas :
+</div>
+
+<div>
+    <h3>TODO API Tareas</h3>
     <p>Api que nos permite crear tareas y asignar a su vez si la tarea fue realizada o no </p>
     <p>
   Tecnologías utilizadas :
@@ -233,11 +243,7 @@ const aboutMe = {
   <div style="text-align:center ">
    <h4  >LINK PROYECTO : </h4>
   <a style="text-align:center" href="https://github.com/Snmoyano/todo-api-tareas">Click Aqui para ir al proyecto</a>
-  </div>
-    
-  </br>
-
-</ul>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats-kccajyqhy-snmoyano.vercel.app/api?username=Snmoyano&show_icons=true&theme=radical)
 
