@@ -64,6 +64,79 @@ const aboutMe = {
 
 <div>
 <h2 style="text-align:center">PROYECTOS</h2>
+<div>
+
+<ul>
+    <li>Sistema de Tienda:
+    <p>Sistema para para Tienda relcaionada con la tecnología, en el cual se pueden registrar productos con sus respectivas imagenes.Estos productos pueden ser adminitrados por el "ADMIN" y asi poder asginar distantas facultades a otros usarios</p>
+    <p>
+  Tecnologías utilizadas :
+      <ul>
+        <li>JAVA</li>
+        <li>Spring Boot</li>
+        <li>MySQL</li>
+        <li>JDK 20</li>
+      </ul>
+    </p>
+  <div style="text-align:center ">
+   <h4  >LINK PROYECTO : </h4>
+  <a style="text-align:center" href="https://github.com/Snmoyano/ecommerce-SpringBoot">Click Aqui para ir al proyecto</a>
+  </div>
+
+<ul>
+    <li>Sistema de Tienda de Ropa JAVA :
+    <p>Sistema para tienda de ropa en el cual se permite llevar detalladamente los detalles de cada venta.Eneste caso se puede elejir Nacionalidad,Talle,Tipo de Prenda,Cantidad,Precio.
+    Ademas cuenta con un sistema de descuentos automáticos que se genera a la hora de realaizar la compra.
+    Cuenta con un calculador de costos Netos a Pagar.
+    Cada una de las comprar realizadas se almacena en un tabala disponible a la vista del usuario.
+    </p>
+    <p>
+  Tecnologías utilizadas :
+      <ul>
+        <li>JAVA</li>
+        <li>JDK 20</li>
+      </ul>
+    </p>
+  <div style="text-align:center ">
+  <a style="text-align:center" href="https://github.com/Snmoyano/Red-Social-Api">Click Aqui para ir al proyecto</a>
+  </div>
+
+<div>
+
+<ul>
+    <li>Sistema de Alumnos/Edades JAVA:
+    <p>Sistema para Alumnos donde el maestro puede llevar el registro de sus alumnos y correspondientes edades, este sistema permite crear,editar y eliminar alumnos(CRUD)</p>
+    <p>
+  Tecnologías utilizadas :
+      <ul>
+        <li>JAVA</li>
+        <li>Spring Boot</li>
+        <li>MySQL</li>
+        <li>JDK 20</li>
+      </ul>
+    </p>
+  <div style="text-align:center ">
+   <h4  >LINK PROYECTO : </h4>
+  <a style="text-align:center" href="https://github.com/Snmoyano/crudJava">Click Aqui para ir al proyecto</a>
+  </div>
+
+  <ul>
+    <li>Sistema de Registro de ALumnos:
+    <p>Sistema para Alumnos donde el maestro puede llevar el registro de sus alumnos y correspondientes edades, este sistema permite crear,editar y eliminar alumnos(CRUD)</p>
+    <p>
+  Tecnologías utilizadas :
+      <ul>
+        <li>JAVA</li>
+        <li>JDK 20</li>
+      </ul>
+    </p>
+  <div style="text-align:center ">
+   <h4  >LINK PROYECTO : </h4>
+  <a style="text-align:center" href="https://github.com/Snmoyano/estudiantesRegistro">Click Aqui para ir al proyecto</a>
+  </div>
+
+<div>
+
 <ul>
     <li>Red Social API :
     <p>Api que nos permite interactuar entre los distintos usuarios (CRUD), creando publicaciones y poder darles 'Like' y realizar comentarios. </p>
