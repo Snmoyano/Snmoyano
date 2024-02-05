@@ -101,8 +101,6 @@ const aboutMe = {
   <a style="text-align:center" href="https://github.com/Snmoyano/Red-Social-Api">Click Aqui para ir al proyecto</a>
   </div>
 
-<div>
-
 <ul>
     <li>Sistema de Alumnos/Edades JAVA:
     <p>Sistema para Alumnos donde el maestro puede llevar el registro de sus alumnos y correspondientes edades, este sistema permite crear,editar y eliminar alumnos(CRUD)</p>
@@ -118,7 +116,7 @@ const aboutMe = {
   <div style="text-align:center ">
    <h4  >LINK PROYECTO : </h4>
   <a style="text-align:center" href="https://github.com/Snmoyano/crudJava">Click Aqui para ir al proyecto</a>
-  </div>
+
 
   <ul>
     <li>Sistema de Registro de ALumnos:
@@ -133,9 +131,6 @@ const aboutMe = {
   <div style="text-align:center ">
    <h4  >LINK PROYECTO : </h4>
   <a style="text-align:center" href="https://github.com/Snmoyano/estudiantesRegistro">Click Aqui para ir al proyecto</a>
-  </div>
-
-<div>
 
 <ul>
     <li>Red Social API :
@@ -244,13 +239,9 @@ const aboutMe = {
 
 </ul>
 
-</div>
-
 ![Anurag's GitHub stats](https://github-readme-stats-kccajyqhy-snmoyano.vercel.app/api?username=Snmoyano&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats-kccajyqhy-snmoyano.vercel.app/api/top-langs/?username=Snmoyano&layout=compact)](https://github.com/Snmoyano/github-readme-stats)
-
-</div>
 
 <p align="center" width="50%">
 <br/>
